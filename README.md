@@ -8,42 +8,29 @@ I have a BBA in Computer Information Systems from Baruch College and I’ve buil
 
 #### My Tools & Technologies
 <p align="center">
-  <style>
-    .cute-btn {
-      display: inline-block;
-      font-family: 'Playfair Display', Georgia, Cambria, 'Times New Roman', serif;
-      font-size: 14px;
-      font-weight: 600;
-      color: #333333;
-      background-color: #e3e8ff; 
-      border: 2px solid #9ab2ff; 
-      border-radius: 20px;       
-      padding: 6px 16px;
-      margin: 6px;
-      text-decoration: none;
-    }
-  </style>
-
-  <span class="cute-btn">Python</span>
-  <span class="cute-btn">SQL</span>
-  <span class="cute-btn">HTML</span>
-  <span class="cute-btn">CSS</span>
-  <span class="cute-btn">JavaScript</span>
-  <span class="cute-btn">Bootstrap</span>
-  <span class="cute-btn">React</span>
-  <span class="cute-btn">Node.js</span>
-  <span class="cute-btn">WordPress</span>
-  <span class="cute-btn">Wix</span>
-  <span class="cute-btn">Snowflake</span>
-  <span class="cute-btn">dbt</span>
-  <span class="cute-btn">Azure</span>
-  <span class="cute-btn">Vercel</span>
-  <span class="cute-btn">Vite</span>
-  <span class="cute-btn">Netlify</span>
-  <span class="cute-btn">Git/GitHub</span>
-  <span class="cute-btn">Figma</span>
-  <span class="cute-btn">VS Code</span>
+  <span style="display: inline-block; font-family: 'Playfair Display', Georgia, serif; font-size: 14px; font-weight: 600; color: #2c3e50; background-color: #f0f3ff; border: 2px solid #b4c6ff; border-radius: 20px; padding: 6px 16px; margin: 6px;">Python</span>
+  <span style="display: inline-block; font-family: 'Playfair Display', Georgia, serif; font-size: 14px; font-weight: 600; color: #2c3e50; background-color: #f0f3ff; border: 2px solid #b4c6ff; border-radius: 20px; padding: 6px 16px; margin: 6px;">SQL</span>
+  <span style="display: inline-block; font-family: 'Playfair Display', Georgia, serif; font-size: 14px; font-weight: 600; color: #2c3e50; background-color: #f0f3ff; border: 2px solid #b4c6ff; border-radius: 20px; padding: 6px 16px; margin: 6px;">HTML</span>
+  <span style="display: inline-block; font-family: 'Playfair Display', Georgia, serif; font-size: 14px; font-weight: 600; color: #2c3e50; background-color: #f0f3ff; border: 2px solid #b4c6ff; border-radius: 20px; padding: 6px 16px; margin: 6px;">CSS</span>
+  <span style="display: inline-block; font-family: 'Playfair Display', Georgia, serif; font-size: 14px; font-weight: 600; color: #2c3e50; background-color: #f0f3ff; border: 2px solid #b4c6ff; border-radius: 20px; padding: 6px 16px; margin: 6px;">JavaScript</span>
+  <span style="display: inline-block; font-family: 'Playfair Display', Georgia, serif; font-size: 14px; font-weight: 600; color: #2c3e50; background-color: #f0f3ff; border: 2px solid #b4c6ff; border-radius: 20px; padding: 6px 16px; margin: 6px;">Bootstrap</span>
+  <span style="display: inline-block; font-family: 'Playfair Display', Georgia, serif; font-size: 14px; font-weight: 600; color: #2c3e50; background-color: #f0f3ff; border: 2px solid #b4c6ff; border-radius: 20px; padding: 6px 16px; margin: 6px;">React</span>
+  <br/>
+  <span style="display: inline-block; font-family: 'Playfair Display', Georgia, serif; font-size: 14px; font-weight: 600; color: #2c3e50; background-color: #f0f3ff; border: 2px solid #b4c6ff; border-radius: 20px; padding: 6px 16px; margin: 6px;">Node.js</span>
+  <span style="display: inline-block; font-family: 'Playfair Display', Georgia, serif; font-size: 14px; font-weight: 600; color: #2c3e50; background-color: #f0f3ff; border: 2px solid #b4c6ff; border-radius: 20px; padding: 6px 16px; margin: 6px;">WordPress</span>
+  <span style="display: inline-block; font-family: 'Playfair Display', Georgia, serif; font-size: 14px; font-weight: 600; color: #2c3e50; background-color: #f0f3ff; border: 2px solid #b4c6ff; border-radius: 20px; padding: 6px 16px; margin: 6px;">Wix</span>
+  <span style="display: inline-block; font-family: 'Playfair Display', Georgia, serif; font-size: 14px; font-weight: 600; color: #2c3e50; background-color: #f0f3ff; border: 2px solid #b4c6ff; border-radius: 20px; padding: 6px 16px; margin: 6px;">Snowflake</span>
+  <span style="display: inline-block; font-family: 'Playfair Display', Georgia, serif; font-size: 14px; font-weight: 600; color: #2c3e50; background-color: #f0f3ff; border: 2px solid #b4c6ff; border-radius: 20px; padding: 6px 16px; margin: 6px;">dbt</span>
+  <span style="display: inline-block; font-family: 'Playfair Display', Georgia, serif; font-size: 14px; font-weight: 600; color: #2c3e50; background-color: #f0f3ff; border: 2px solid #b4c6ff; border-radius: 20px; padding: 6px 16px; margin: 6px;">Azure</span>
+  <br/>
+  <span style="display: inline-block; font-family: 'Playfair Display', Georgia, serif; font-size: 14px; font-weight: 600; color: #2c3e50; background-color: #f0f3ff; border: 2px solid #b4c6ff; border-radius: 20px; padding: 6px 16px; margin: 6px;">Vercel</span>
+  <span style="display: inline-block; font-family: 'Playfair Display', Georgia, serif; font-size: 14px; font-weight: 600; color: #2c3e50; background-color: #f0f3ff; border: 2px solid #b4c6ff; border-radius: 20px; padding: 6px 16px; margin: 6px;">Vite</span>
+  <span style="display: inline-block; font-family: 'Playfair Display', Georgia, serif; font-size: 14px; font-weight: 600; color: #2c3e50; background-color: #f0f3ff; border: 2px solid #b4c6ff; border-radius: 20px; padding: 6px 16px; margin: 6px;">Netlify</span>
+  <span style="display: inline-block; font-family: 'Playfair Display', Georgia, serif; font-size: 14px; font-weight: 600; color: #2c3e50; background-color: #f0f3ff; border: 2px solid #b4c6ff; border-radius: 20px; padding: 6px 16px; margin: 6px;">Git/GitHub</span>
+  <span style="display: inline-block; font-family: 'Playfair Display', Georgia, serif; font-size: 14px; font-weight: 600; color: #2c3e50; background-color: #f0f3ff; border: 2px solid #b4c6ff; border-radius: 20px; padding: 6px 16px; margin: 6px;">Figma</span>
+  <span style="display: inline-block; font-family: 'Playfair Display', Georgia, serif; font-size: 14px; font-weight: 600; color: #2c3e50; background-color: #f0f3ff; border: 2px solid #b4c6ff; border-radius: 20px; padding: 6px 16px; margin: 6px;">VS Code</span>
 </p>
+
 
 
 #### Current Projects I'm Working On 
