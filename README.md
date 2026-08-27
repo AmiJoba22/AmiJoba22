@@ -8,28 +8,43 @@ I have a BBA in Computer Information Systems from Baruch College and I’ve buil
 
 #### My Tools & Technologies
 <p align="center">
-  <img src="https://shields.io" alt="Python" width="90"/>
-  <img src="https://shields.io" alt="SQL" width="75"/>
-  <img src="https://shields.io" alt="HTML5" width="90"/>
-  <img src="https://shields.io" alt="CSS3" width="85"/>
-  <img src="https://shields.io" alt="JavaScript" width="110"/>
-  <img src="https://shields.io" alt="Bootstrap" width="105"/>
-  <img src="https://shields.io" alt="React" width="85"/>
-  <img src="https://shields.io" alt="Node.js" width="95"/>
-  <br/><br/>
-  <img src="https://shields.io" alt="WordPress" width="110"/>
-  <img src="https://shields.io" alt="Wix" width="75"/>
-  <img src="https://shields.io" alt="Snowflake" width="105"/>
-  <img src="https://shields.io" alt="dbt" width="75"/>
-  <img src="https://shields.io" alt="Azure" width="85"/>
-  <img src="https://shields.io" alt="Vercel" width="90"/>
-  <img src="https://shields.io" alt="Vite" width="75"/>
-  <br/><br/>
-  <img src="https://shields.io" alt="Netlify" width="90"/>
-  <img src="https://shields.io" alt="GitHub" width="90"/>
-  <img src="https://shields.io" alt="Figma" width="85"/>
-  <img src="https://shields.io" alt="VS Code" width="100"/>
+  <style>
+    .cute-btn {
+      display: inline-block;
+      font-family: 'Playfair Display', Georgia, Cambria, 'Times New Roman', serif;
+      font-size: 14px;
+      font-weight: 600;
+      color: #333333;
+      background-color: #e3e8ff; 
+      border: 2px solid #9ab2ff; 
+      border-radius: 20px;       
+      padding: 6px 16px;
+      margin: 6px;
+      text-decoration: none;
+    }
+  </style>
+
+  <span class="cute-btn">Python</span>
+  <span class="cute-btn">SQL</span>
+  <span class="cute-btn">HTML</span>
+  <span class="cute-btn">CSS</span>
+  <span class="cute-btn">JavaScript</span>
+  <span class="cute-btn">Bootstrap</span>
+  <span class="cute-btn">React</span>
+  <span class="cute-btn">Node.js</span>
+  <span class="cute-btn">WordPress</span>
+  <span class="cute-btn">Wix</span>
+  <span class="cute-btn">Snowflake</span>
+  <span class="cute-btn">dbt</span>
+  <span class="cute-btn">Azure</span>
+  <span class="cute-btn">Vercel</span>
+  <span class="cute-btn">Vite</span>
+  <span class="cute-btn">Netlify</span>
+  <span class="cute-btn">Git/GitHub</span>
+  <span class="cute-btn">Figma</span>
+  <span class="cute-btn">VS Code</span>
 </p>
+
 
 #### Current Projects I'm Working On 
 
