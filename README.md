@@ -8,27 +8,38 @@ I have a BBA in Computer Information Systems from Baruch College and I’ve buil
 
 #### My Tools & Technologies
 <div align="center">
-  <!-- Copy and paste this block directly into your README.md -->
-  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Python</kbd>
-  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">SQL</kbd>
-  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">HTML</kbd>
-  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">CSS</kbd>
-  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">JavaScript</kbd>
-  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Bootstrap</kbd>
-  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">React</kbd>
-  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Node.js</kbd>
-  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">WordPress</kbd>
-  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Wix</kbd>
-  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Snowflake</kbd>
-  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">dbt</kbd>
-  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Azure</kbd>
-  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Vercel</kbd>
-  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Vite</kbd>
-  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Netlify</kbd>
-  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Git/GitHub</kbd>
-  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Figma</kbd>
-  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">VS Code</kbd>
+  <table>
+    <tr>
+      <td><b style="background-color: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-family: Georgia, serif; display: inline-block; margin: 4px;">Python</b></td>
+      <td><b style="background-color: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-family: Georgia, serif; display: inline-block; margin: 4px;">SQL</b></td>
+      <td><b style="background-color: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-family: Georgia, serif; display: inline-block; margin: 4px;">HTML</b></td>
+      <td><b style="background-color: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-family: Georgia, serif; display: inline-block; margin: 4px;">CSS</b></td>
+      <td><b style="background-color: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-family: Georgia, serif; display: inline-block; margin: 4px;">JavaScript</b></td>
+    </tr>
+    <tr>
+      <td><b style="background-color: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-family: Georgia, serif; display: inline-block; margin: 4px;">Bootstrap</b></td>
+      <td><b style="background-color: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-family: Georgia, serif; display: inline-block; margin: 4px;">React</b></td>
+      <td><b style="background-color: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-family: Georgia, serif; display: inline-block; margin: 4px;">Node.js</b></td>
+      <td><b style="background-color: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-family: Georgia, serif; display: inline-block; margin: 4px;">WordPress</b></td>
+      <td><b style="background-color: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-family: Georgia, serif; display: inline-block; margin: 4px;">Wix</b></td>
+    </tr>
+    <tr>
+      <td><b style="background-color: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-family: Georgia, serif; display: inline-block; margin: 4px;">Snowflake</b></td>
+      <td><b style="background-color: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-family: Georgia, serif; display: inline-block; margin: 4px;">dbt</b></td>
+      <td><b style="background-color: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-family: Georgia, serif; display: inline-block; margin: 4px;">Azure</b></td>
+      <td><b style="background-color: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-family: Georgia, serif; display: inline-block; margin: 4px;">Vercel</b></td>
+      <td><b style="background-color: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-family: Georgia, serif; display: inline-block; margin: 4px;">Vite</b></td>
+    </tr>
+    <tr>
+      <td><b style="background-color: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-family: Georgia, serif; display: inline-block; margin: 4px;">Netlify</b></td>
+      <td><b style="background-color: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-family: Georgia, serif; display: inline-block; margin: 4px;">Git/GitHub</b></td>
+      <td><b style="background-color: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-family: Georgia, serif; display: inline-block; margin: 4px;">Figma</b></td>
+      <td><b style="background-color: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-family: Georgia, serif; display: inline-block; margin: 4px;">VS Code</b></td>
+      <td></td>
+    </tr>
+  </table>
 </div>
+
 
 
 #### Current Projects I'm Working On 
