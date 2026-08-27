@@ -12,8 +12,6 @@ I have a BBA in Computer Information Systems from Baruch College and I’ve buil
 
 Domoro Restuarant Website (2026 Version)
 
-SmartStyle Closet 
-
 ##### [Portfolio](https://aminasport.netlify.app/)
 
 ##### [Linkedin](https://www.linkedin.com/in/amina-jobarteh/)
