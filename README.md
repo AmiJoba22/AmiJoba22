@@ -1,7 +1,7 @@
 
 HELLO! I'M
 
-### Amina Jobarteh 
+# Amina Jobarteh 
 
 I'm a creative technologist who enjoys the intersection of technology, design, creativity, and problem-solving.
 
