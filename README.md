@@ -14,6 +14,7 @@ I have a BBA in Computer Information Systems from Baruch College and I’ve buil
 [Domoro Restuarant Website (2026 Version)](https://github.com/AmiJoba22/Domoro-Restaurant-Website)
 
 
+### Additional Links
 ##### [Portfolio](https://aminasport.netlify.app/)
 
 ##### [Linkedin](https://www.linkedin.com/in/amina-jobarteh/)
