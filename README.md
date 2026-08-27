@@ -8,8 +8,28 @@ I have a BBA in Computer Information Systems from Baruch College and I’ve buil
 
 #### My Tools & Technologies
 <div align="center">
-  <img src="./skills.svg" alt="My Skills" width="100%" />
+  <!-- Copy and paste this block directly into your README.md -->
+  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Python</kbd>
+  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">SQL</kbd>
+  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">HTML</kbd>
+  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">CSS</kbd>
+  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">JavaScript</kbd>
+  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Bootstrap</kbd>
+  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">React</kbd>
+  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Node.js</kbd>
+  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">WordPress</kbd>
+  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Wix</kbd>
+  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Snowflake</kbd>
+  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">dbt</kbd>
+  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Azure</kbd>
+  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Vercel</kbd>
+  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Vite</kbd>
+  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Netlify</kbd>
+  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Git/GitHub</kbd>
+  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Figma</kbd>
+  <kbd style="background: #e5e8ff; color: #2e3142; border: 2px solid #9da7ec; border-radius: 20px; padding: 6px 16px; font-size: 14px; font-weight: 600; display: inline-block; margin: 5px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">VS Code</kbd>
 </div>
+
 
 #### Current Projects I'm Working On 
 
