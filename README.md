@@ -1,5 +1,6 @@
 
 HELLO! I'M
+
 ### AMINA JOBARTEH
 
 I'm a creative technologist who enjoys the intersection of technology, design, creativity, and problem-solving.
