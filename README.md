@@ -1,6 +1,6 @@
 
 
-# I'm Amina Jobarteh 
+# Amina Jobarteh 
 
 Welcome to my GitHub!
 
