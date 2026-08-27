@@ -7,8 +7,9 @@ I'm a creative technologist who enjoys the intersection of technology, design, c
 I have a BBA in Computer Information Systems from Baruch College and I’ve built projects in web development, software engineering, and data science. I’m always looking for ways to grow and build digital pieces that make a difference.
 
 #### My Tools & Technologies
-<img width="1220" height="686" alt="imageedit_1_2218669105" src="https://github.com/user-attachments/assets/57831642-6504-49e5-a557-9d13533d1299" />
-
+<div align="center">
+  <img src="./skills.svg" alt="My Skills" width="100%" />
+</div>
 
 #### Current Projects I'm Working On 
 
