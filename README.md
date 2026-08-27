@@ -1,7 +1,8 @@
 
-HELLO! I'M
 
-# Amina Jobarteh 
+# I'm Amina Jobarteh 
+
+Welcome to my GitHub!
 
 I'm a creative technologist who enjoys the intersection of technology, design, creativity, and problem-solving.
 
