@@ -19,4 +19,4 @@ I have a BBA in Computer Information Systems from Baruch College and I’ve buil
 ### Additional Links
 ##### [Portfolio](https://aminasport.netlify.app/)
 
-##### [Linkedin](https://www.linkedin.com/in/amina-jobarteh/)
+##### [![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Famina-jobarteh%2F)](https://www.linkedin.com/in/amina-jobarteh/)
