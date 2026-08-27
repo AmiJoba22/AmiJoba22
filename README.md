@@ -1,5 +1,4 @@
-https://www.canva.com/design/DAHThzSO5kQ/QwfU_dJCdKbNNVflvmYY1A/view
-
+![](https://www.canva.com/design/DAHThzSO5kQ/QwfU_dJCdKbNNVflvmYY1A/view)
 # Amina Jobarteh 
 
 Welcome to my GitHub!
