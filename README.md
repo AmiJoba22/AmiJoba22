@@ -1,8 +1,6 @@
 <img width="200" height="164" alt="200w" src="https://github.com/user-attachments/assets/eb7351e8-eae5-4a09-85d3-7b150ffffe23" />
 
-# Amina Jobarteh | My GitHub
-
-Welcome to my GitHub!
+# Welcome to My GitHub
 
 I'm a creative technologist who enjoys the intersection of technology, design, creativity, and problem-solving.
 
