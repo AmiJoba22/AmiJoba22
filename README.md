@@ -1,3 +1,4 @@
+Hello, I'm 
 # Amina Jobarteh 
 
 Welcome to my GitHub!
