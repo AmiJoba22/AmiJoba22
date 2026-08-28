@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./envelope.svg" width="500" alt="Animated Periwinkle Envelope">
+  <img src="https://githubusercontent.com" width="500" alt="Animated Periwinkle Envelope">
 </p>
 
 # Amina Jobarteh 
