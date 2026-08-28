@@ -1,4 +1,7 @@
-Hello, I'm 
+<p align="center">
+  <img src="https://giphy.com/explore/hello-world"/>
+</p>
+
 # Amina Jobarteh 
 
 Welcome to my GitHub!
