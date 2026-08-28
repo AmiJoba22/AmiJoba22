@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="200" height="164" alt="200w" src="https://github.com/user-attachments/assets/eb7351e8-eae5-4a09-85d3-7b150ffffe23" />
-</p>
+<img width="200" height="164" alt="200w" src="https://github.com/user-attachments/assets/eb7351e8-eae5-4a09-85d3-7b150ffffe23" />
 
 # Amina Jobarteh 
 
