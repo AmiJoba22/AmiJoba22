@@ -1,4 +1,4 @@
-<img width="421" height="354" alt="Screenshot 2026-08-27 at 8 14 01 PM" src="https://github.com/user-attachments/assets/d4b7a291-90c0-49f0-93f0-e39810e50dbf" />
+<img width="341" height="254" alt="Screenshot 2026-08-27 at 8 14 01 PM" src="https://github.com/user-attachments/assets/d4b7a291-90c0-49f0-93f0-e39810e50dbf" />
 
 # Amina Jobarteh 
 
