@@ -1,5 +1,3 @@
-<img width="421" height="354" alt="Screenshot 2026-08-27 at 8 14 01 PM" src="https://github.com/user-attachments/assets/7699d76a-8afc-4ca5-8ad3-9f652151d282" />
-
 # Amina Jobarteh 
 
 Welcome to my GitHub!
