@@ -17,6 +17,9 @@ I have a BBA in Computer Information Systems from Baruch College and I’ve buil
 
 [Domoro Restuarant Website (2026 Version)](https://github.com/AmiJoba22/Domoro-Restaurant-Website)
 
+### Project I Recently Completed
+
+[UK Road Safety Machine Learning Pipeline](https://github.com/AmiJoba22/uk_road_safety_datapipe)
 
 ### Additional Links
 ##### [Portfolio](https://aminasport.netlify.app/)
