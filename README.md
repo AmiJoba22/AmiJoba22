@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com/explore/hello-world"/>
+  <img width="200" height="164" alt="200w" src="https://github.com/user-attachments/assets/eb7351e8-eae5-4a09-85d3-7b150ffffe23" />
 </p>
 
 # Amina Jobarteh 
