@@ -7,41 +7,36 @@
   </defs>
 
   <style>
+    <![CDATA[
     /* --- CSS ANIMATION TIMINGS --- */
-    
-    /* 1. The Top Flap opens by flipping upward */
     .envelope-flap {
       transform-origin: 250px 120px;
       animation: openFlap 6s ease-in-out infinite alternate;
     }
-    
-    /* 2. The Wax Stamp fades out and drops down slightly as the seal breaks */
     .wax-stamp {
       transform-origin: 250px 210px;
       animation: breakSeal 6s ease-in-out infinite alternate;
     }
-    
-    /* 3. The Letter slides upwards out of the envelope body */
     .letter-card {
       animation: slideLetter 6s ease-in-out infinite alternate;
     }
 
     /* --- ANIMATION KEYFRAMES --- */
     @keyframes openFlap {
-      0%, 15% { transform: scaleY(1); fill: #8fa0e6; } /* Closed */
-      40%, 100% { transform: scaleY(-0.9); fill: #7b8ed9; } /* Flipped up */
+      0%, 15% { transform: scaleY(1); fill: #8fa0e6; }
+      40%, 100% { transform: scaleY(-0.9); fill: #7b8ed9; }
     }
-
     @keyframes breakSeal {
-      0%, 10% { transform: scale(1); opacity: 1; } /* Sealed */
-      30%, 100% { transform: scale(0.9) translateY(40px); opacity: 0; pointer-events: none; } /* Broken */
+      0%, 10% { transform: scale(1); opacity: 1; }
+      30%, 100% { transform: scale(0.9) translateY(40px); opacity: 0; pointer-events: none; }
     }
-
     @keyframes slideLetter {
-      0%, 35% { transform: translateY(80px); opacity: 0; } /* Hidden inside */
-      60%, 100% { transform: translateY(-70px); opacity: 1; } /* Revealed at top */
+      0%, 35% { transform: translateY(80px); opacity: 0; }
+      60%, 100% { transform: translateY(-70px); opacity: 1; }
     }
+    ]]>
   </style>
+
 
   <!-- BACKGROUND/CONTAINER PADDING -->
   <rect width="100%" height="100%" fill="transparent"/>
