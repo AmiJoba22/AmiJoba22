@@ -20,7 +20,8 @@ I have a BBA in Computer Information Systems from Baruch College and I’ve buil
 [UK Road Safety Machine Learning Pipeline](https://github.com/AmiJoba22/uk_road_safety_datapipe)
 
 ### Additional Links
-##### ![Static Badge](https://img.shields.io/badge/portfolio-site?style=for-the-badge&logoColor=e5e8ff&labelColor=e5e8ff&color=e5e8ff&link=https%3A%2F%2Faminasport.netlify.app%2F)
+##### [![Static Badge](https://img.shields.io/badge/portfolio-site?style=for-the-badge&logoColor=e5e8ff&labelColor=e5e8ff&color=e5e8ff)](https://aminasport.netlify.app/)
+
 
 
 ##### [![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=24&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Famina-jobarteh%2F)](https://www.linkedin.com/in/amina-jobarteh/)
