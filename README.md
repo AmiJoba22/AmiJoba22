@@ -11,13 +11,13 @@ I have a BBA in Computer Information Systems from Baruch College and I’ve buil
 
 ### Current Projects I'm Working On 
 
-[![Static Badge](https://img.shields.io/badge/Website%20Redesign%20for%20Nonprofit%3A-Creshendo?style=for-the-badge&logoColor=e5e8ff&labelColor=e5e8ff&color=e5e8ff)](https://creshendo.org/)
+[![Static Badge](https://img.shields.io/badge/Website%20Redesign%20for%20Nonprofit%3A%20Creshendo-site?style=for-the-badge&logoColor=e5e8ff&labelColor=e5e8ff&color=e5e8ff)](https://creshendo.org/)
 
-[Domoro Restuarant Website (2026 Version)](https://github.com/AmiJoba22/Domoro-Restaurant-Website)
+[![Static Badge](https://img.shields.io/badge/Domoro%20Restaurant%20Website%20(2026%20Version)-site?style=for-the-badge&logoColor=e5e8ff&labelColor=e5e8ff&color=e5e8ff)](https://github.com/AmiJoba22/Domoro-Restaurant-Website)
 
 ### Project I Recently Completed
 
-[UK Road Safety Machine Learning Pipeline](https://github.com/AmiJoba22/uk_road_safety_datapipe)
+[![Static Badge](https://img.shields.io/badge/UK%20Road%20Safety%20Machine%20Learning%20Pipeline-site?style=for-the-badge&logoColor=e5e8ff&labelColor=e5e8ff&color=e5e8ff)](https://github.com/AmiJoba22/uk_road_safety_datapipe)
 
 ### Additional Links
 ##### [![Static Badge](https://img.shields.io/badge/portfolio-site?style=for-the-badge&logoColor=e5e8ff&labelColor=e5e8ff&color=e5e8ff)](https://aminasport.netlify.app/)
