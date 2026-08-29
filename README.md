@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub
 
-I'm a creative technologist who enjoys the intersection of technology, design, creativity, and problem-solving.
+I'm a developer creative technologist who enjoys the intersection of technology, design, creativity, and problem-solving.
 
 I have a BBA in Computer Information Systems from Baruch College and I’ve built projects in web development, software engineering, and data science. I’m always looking for ways to grow and build digital pieces that make a difference.
 
