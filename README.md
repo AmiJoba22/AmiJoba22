@@ -13,7 +13,10 @@ I have a BBA in Computer Information Systems from Baruch College and I’ve buil
 
 [![Static Badge](https://img.shields.io/badge/Website%20Redesign%20for%20Nonprofit%3A%20Creshendo-site?style=for-the-badge&logoColor=e5e8ff&labelColor=e5e8ff&color=e5e8ff)](https://creshendo.org/)
 
-[![Static Badge](https://img.shields.io/badge/Domoro%20Restaurant%20Website%20(2026%20Version)-site?style=for-the-badge&logoColor=e5e8ff&labelColor=e5e8ff&color=e5e8ff)](https://github.com/AmiJoba22/Domoro-Restaurant-Website)
+[![Static Badge](https://img.shields.io/badge/Domoro%20Restaurant%20Website%20(2026%20Version)-site?style=for-the-badge&logoColor=e5e8ff&labelColor=e5e8ff&color=e5e8ff)](https://github.com/AmiJoba22/Domoro-Restaurant-Website) 
+
+[![Static Badge](https://img.shields.io/badge/The%20SmartStyle%20Closet-site?style=for-the-badge&logoColor=e5e8ff&labelColor=e5e8ff&color=e5e8ff)](https://github.com/AmiJoba22/The-SmartStyle-Closet)
+
 
 ### Project I Recently Completed
 
