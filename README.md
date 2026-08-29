@@ -11,7 +11,7 @@ I have a BBA in Computer Information Systems from Baruch College and I’ve buil
 
 ### Current Projects I'm Working On 
 
-[Website Redesign for non-profit: Creshendo.org](https://creshendo.org/)
+[![Static Badge](https://img.shields.io/badge/Website%20Redesign%20for%20Nonprofit%3A-Creshendo?style=for-the-badge&logoColor=e5e8ff&labelColor=e5e8ff&color=e5e8ff)](https://creshendo.org/)
 
 [Domoro Restuarant Website (2026 Version)](https://github.com/AmiJoba22/Domoro-Restaurant-Website)
 
