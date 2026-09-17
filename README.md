@@ -9,13 +9,6 @@ I have a BBA in Computer Information Systems from Baruch College and I’ve buil
 ### Tools & Technologies
 <img width="1079" height="244" alt="Screenshot 2026-08-27 at 7 22 52 PM" src="https://github.com/user-attachments/assets/08d090e8-4f78-4115-9e06-423612cf8182" />
 
-### Current Projects I'm Working On 
-
-[![Static Badge](https://img.shields.io/badge/Domoro%20Restaurant%20Website%20(2026%20Version)-site?style=for-the-badge&logoColor=e5e8ff&labelColor=e5e8ff&color=e5e8ff)](https://github.com/AmiJoba22/Domoro-Restaurant-Website) 
-
-[![Static Badge](https://img.shields.io/badge/The%20SmartStyle%20Closet-site?style=for-the-badge&logoColor=e5e8ff&labelColor=e5e8ff&color=e5e8ff)](https://github.com/AmiJoba22/The-SmartStyle-Closet)
-
-
 ### Project I Recently Completed
 
 [![Static Badge](https://img.shields.io/badge/UK%20Road%20Safety%20Machine%20Learning%20Pipeline-site?style=for-the-badge&logoColor=e5e8ff&labelColor=e5e8ff&color=e5e8ff)](https://github.com/AmiJoba22/uk_road_safety_datapipe)
