@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub
 
-I'm a technologist who enjoys the intersection of engineering, design, data and creativity.
+I'm a technologist who enjoys the intersection of engineering, design, data, and creativity.
 
 I have a BBA in Computer Information Systems from Baruch College and I’ve built projects in web development, software engineering, and data science/visualization. I’m always looking for ways to grow and build digital pieces that make a difference.
 
